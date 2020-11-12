@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner_Dialog_Kotlin</string>
+    <string name="date">%d/%d/%d</string>
+    <string name="date1">0%d/%d/%d</string>
+    <string name="date2">0%d/0%d/%d</string>
+    <string name="date3">%d/0%d/%d</string>
+</resources>
